@@ -9,3 +9,4 @@ git rebase lectures
 
 ##github content
 comparisions with repo
+adding new lectures of stash

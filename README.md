@@ -1,7 +1,15 @@
 # Starter Web project
 
-##Introduction
+this is git project which we are using sample project
+
+39thvideo##Introduction
+A lot of lectures are already submitted
+
 ##Git & Github training
+This is the famous and one of the best training course of Devops
+
+
+
 
 This repository is for showing how Git and GitHub work
 

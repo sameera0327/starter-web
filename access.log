@@ -1,1 +1,4 @@
-Adding ignore files in git stash
+/status 200
+/httpacccess 200
+/mktsp 300
+/dummy 3000
